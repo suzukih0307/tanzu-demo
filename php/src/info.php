@@ -24,6 +24,7 @@ echo "this is hshimizu";
 
 echo "aws";
 echo "automation";
+echo "aws automtion";
 
 $c = "Bamba";
 echo $c;
