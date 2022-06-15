@@ -23,6 +23,7 @@ echo('ykanai');
 echo "this is hshimizu";
 
 echo "aws";
+echo "automation";
 
 $c = "Bamba";
 echo $c;
