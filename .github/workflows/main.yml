@@ -18,6 +18,7 @@ jobs:
       # デプロイする
       - name: Deploy
         run: |
+        
           # SSH接続して、git pullする
           echo "${{ secrets.EC2_PRIVATE_KEY }}" > private_key
           chmod 600 private_key
