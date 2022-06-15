@@ -22,7 +22,7 @@ echo "mmori";
 echo('ykanai');
 echo "this is hshimizu";
 
-
+echo "aws";
 
 $c = "Bamba";
 echo $c;
